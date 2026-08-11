@@ -16,7 +16,7 @@ I turn operational complexity into secure software, AI workflows, and scalable s
 
 ## About me
 
-I lead engineering and enterprise operations while building **[RootedAI](https://rootedai.tech)**, an AI engineering and adoption company focused on practical business outcomes. My work spans product development, AI agents, cloud and data platforms, developer productivity, cybersecurity, and operational excellence.
+I lead development/engineering and enterprise operations at **[Centralized Supply Chain Services](https://cscscoop.com)** while building **[RootedAI](https://rootedai.tech)**, an AI engineering and adoption company focused on practical business outcomes. My work spans product development, AI agents, cloud and data platforms, developer productivity, cybersecurity, and operational excellence.
 
 - Build production web and mobile applications from discovery through operations
 - Design AI-enabled workflows with governance and human oversight
