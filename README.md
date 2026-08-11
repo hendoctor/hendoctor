@@ -37,7 +37,7 @@ I lead development/engineering and enterprise operations at **[Centralized Suppl
 | Initiative | What it demonstrates |
 | --- | --- |
 | **[RootedAI](https://rootedai.tech)** | AI adoption strategy, agent development, enablement, and productized services |
-| **Nestwise** | Personalized product intelligence across thousands of family and life-stage products |
+| **[Nestwise](https://nestwise.app)** | Personalized product intelligence across thousands of family and life-stage products |
 | **Supply chain command systems** | Enterprise data products, risk detection, notifications, and decision support |
 | **AI workflow automation** | Agentic systems with validation, exception handling, and human-in-the-loop controls |
 | **Client platforms** | Production experiences spanning marketing, operations, analytics, and customer workflows |
@@ -95,9 +95,9 @@ The technologies below are drawn from the application manifests across my GitHub
 
 ## Recognition and leadership
 
-- **Founder and CTO**, RootedAI
+- **Founder**, RootedAI
 - **Lovable Level 5 Diamond** builder
-- **Member Maniac of the Year**
+- **Member Maniac of the Year** @ **Centralized Supply Chain Services**
 - Engineering leader across enterprise applications, AI, data, cloud, DevOps, security, and operations
 
 ## How I build
