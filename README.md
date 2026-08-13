@@ -1,130 +1,311 @@
 <div align="center">
 
-# James Hennahane
+James Hennahane
 
-### Engineering Leader · AI Builder · Founder of RootedAI
+Engineering Leader · AI Builder · Founder · Relentless Tinkerer
 
-I turn operational complexity into secure software, AI workflows, and scalable systems.
+I build software, AI systems, and engineering organizations that turn complicated work into simple experiences.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-james.hennahane.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://james.hennahane.com)
-[![RootedAI](https://img.shields.io/badge/Founder-RootedAI-166534?style=for-the-badge&logo=openai&logoColor=white)](https://rootedai.tech)
-[![Email](https://img.shields.io/badge/Email-Let's_connect-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james@hennahane.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=hendoctor&label=Profile%20views&color=166534&style=flat-square)
+Enterprise engineering by day. Founder at RootedAI.
+Usually building something else after everyone goes to bed.
 
 </div>
 
-## About me
+⸻
 
-I lead development/engineering and enterprise operations at **[Centralized Supply Chain Services](https://cscscoop.com)** while building **[RootedAI](https://rootedai.tech)**, an AI engineering and adoption company focused on practical business outcomes. My work spans product development, AI agents, cloud and data platforms, developer productivity, cybersecurity, and operational excellence.
+👋 I’m James
 
-- Build production web and mobile applications from discovery through operations
-- Design AI-enabled workflows with governance and human oversight
-- Lead cross-functional programs across engineering, data, cloud, security, and business operations
-- Help small teams ship faster through reusable architecture, automation, and AI-assisted delivery
+I’m an engineering leader and hands-on builder working at the intersection of software engineering, AI, enterprise systems, product development, and automation.
 
-## What I am building
+I lead engineering and enterprise operations at Centralized Supply Chain Services, supporting the technology ecosystem behind the supply chains of thousands of restaurants.
 
-| Focus | Outcome |
-| --- | --- |
-| **AI agents and orchestration** | Reliable multi-step workflows that classify, validate, decide, and communicate |
-| **Product engineering** | Fast product validation without sacrificing maintainability or security |
-| **Enterprise modernization** | Connected applications, data, automation, and operational intelligence |
-| **Developer productivity** | Reusable standards and AI-assisted workflows that increase team leverage |
+I also founded RootedAI, where I build AI-powered products, agents, automations, and software for businesses that want practical outcomes from AI instead of another slide deck about it.
 
-## Selected work
+My favorite problems usually look something like:
 
-| Initiative | What it demonstrates |
-| --- | --- |
-| **[RootedAI](https://rootedai.tech)** | AI adoption strategy, agent development, enablement, and productized services |
-| **[Nestwise](https://nestwise.app)** | Personalized product intelligence across thousands of family and life-stage products |
-| **Supply chain command systems** | Enterprise data products, risk detection, notifications, and decision support |
-| **AI workflow automation** | Agentic systems with validation, exception handling, and human-in-the-loop controls |
-| **Client platforms** | Production experiences spanning marketing, operations, analytics, and customer workflows |
+messy process
+    ↓
+understand the system
+    ↓
+simplify the workflow
+    ↓
+automate what shouldn't require a human
+    ↓
+build the product
+    ↓
+measure it
+    ↓
+iterate
 
-> Most production and client repositories are private. Public case studies emphasize architecture, outcomes, and reusable lessons without exposing proprietary code or client data.
+I still write code, prototype ideas, review architecture, experiment with new AI tooling, and occasionally build an entire application because I thought of something interesting on a Saturday.
 
-## Repository-verified stack
+⸻
 
-The technologies below are drawn from the application manifests across my GitHub repositories.
+🚀 What I work on
 
-### Core application platform
+	Area	What that means
+🤖	AI Engineering	Agents, orchestration, tool use, structured workflows, evaluation, human-in-the-loop systems
+🧠	Agentic Engineering	Using AI throughout discovery, architecture, implementation, testing, security, deployment, and operations
+🏗️	Product Engineering	Taking ambiguous ideas from what if? to production software
+⚙️	Automation	Eliminating repetitive work and designing exception-driven workflows
+☁️	Enterprise Platforms	Applications, cloud infrastructure, identity, integrations, data platforms, analytics, and operations
+📊	Data Products	Turning fragmented operational data into decisions, alerts, workflows, and intelligence
+🛡️	Secure Systems	Identity, least privilege, auditability, data boundaries, observability, and operational resilience
+👥	Engineering Leadership	Teams, architecture, standards, developer experience, prioritization, mentoring, and execution
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+⸻
 
-### Data, validation, and state
+🧑‍💻 Things I’ve Built
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+A lot of my professional work lives in private repositories, but the problems span enterprise platforms, startups, client products, experiments, and things I built simply because I wanted them to exist.
 
-### Product capabilities
+🏢 Enterprise Engineering
 
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+I’ve helped build and lead systems across a restaurant supply-chain ecosystem supporting roughly 3,200 restaurants, 500 suppliers, 13 distribution centers, and ~$2B in annual purchasing.
 
-### Delivery workflow
+Work includes:
 
-![Lovable](https://img.shields.io/badge/Lovable-AI_product_engineering-FF4B8B?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-Version_control-181717?style=flat-square&logo=github&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
+* Supply-chain command and decision-support platforms
+* Inventory and item-strategy applications
+* Product and item lifecycle workflows
+* Risk detection and operational notification systems
+* Enterprise data pipelines and analytics
+* Internal application modernization
+* AI-assisted operational workflows
+* Workflow engines, approvals, RBAC, auditability, and event-driven processes
+* Developer tooling and engineering standards
+* Cloud, identity, security, DevOps, and observability
 
-## Enterprise and AI experience
+One of my favorite challenges is replacing fragmented workflows with systems that actually understand how the business operates.
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerapps&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white)
+⸻
 
-## Recognition and leadership
+🌱 RootedAI
 
-- **Founder**, RootedAI
-- **Lovable Level 5 Diamond** builder
-- **Member Maniac of the Year** @ **Centralized Supply Chain Services**
-- Engineering leader across enterprise applications, AI, data, cloud, DevOps, security, and operations
+RootedAI is where I explore how small teams can use modern software and AI to operate with dramatically more leverage.
 
-## How I build
+I work across:
 
-- **Outcomes first:** Architecture should create measurable business value.
-- **Secure by design:** Identity, least privilege, auditability, and data boundaries are product requirements.
-- **Automate repeatable work:** Keep human judgment focused on exceptions and consequential decisions.
-- **Build for operators:** Observability, recovery paths, and ownership matter as much as features.
-- **Prefer simple systems:** Add complexity only when scale, risk, or economics justify it.
-- **Document decisions:** Strong engineering scales through context, standards, and reusable patterns.
+AI Adoption → Product Strategy → Architecture → Agents → Applications → Automation → Deployment → Operations
 
-## GitHub activity
+Projects span:
+
+* Custom AI agents
+* Agent orchestration
+* AI-powered applications
+* Workflow automation
+* Microsoft 365 and Copilot enablement
+* Internal business systems
+* Customer-facing SaaS
+* Operational dashboards
+* CRM and intake workflows
+* AI adoption strategy and training
+
+The goal is simple:
+
+AI should remove work, improve decisions, or create something that wasn’t economically practical before.
+
+⸻
+
+🪺 Nestwise
+
+A personalized product-intelligence platform designed around life stages and family needs.
+
+The system has analyzed thousands of products while building toward a much larger product-intelligence foundation.
+
+Interesting problems include:
+
+* Product classification
+* Personalization
+* Recommendation systems
+* Large product catalogs
+* Structured product intelligence
+* AI-assisted enrichment
+* Life-stage modeling
+* Search and discovery
+
+⸻
+
+🏡 Client Platforms
+
+I’ve built software for businesses ranging from home services to consulting and consumer products.
+
+That work has included:
+
+* Marketing websites
+* Customer intake
+* CRM workflows
+* Job management
+* Scheduling
+* Geographic routing and mapping
+* Lead capture
+* Operational dashboards
+* Customer communications
+* Analytics
+* Business automation
+
+I like projects where the website eventually stops being “a website” and becomes part of how the company operates.
+
+⸻
+
+🧪 Side Quests
+
+Some projects start with a business case.
+
+Others start with:
+
+“I wonder if I could build…”
+
+My repositories and experiments have included:
+
+* 🗺️ Interactive trip planners
+* 🔗 Personal link hubs
+* 📈 Trend and discovery applications
+* 🧠 AI experiments
+* 🛠️ IT support tools
+* 🛒 Product intelligence
+* 📱 PWAs and mobile applications
+* 📊 Data visualization
+* 🗺️ Mapping and geospatial interfaces
+* 🧾 Document and PDF generation
+* 📷 QR and camera-based workflows
+* 🎨 3D web experiences
+* 🏠 Tools that solve annoyingly specific problems in my own life
+
+Building is how I learn.
+
+⸻
+
+🤖 How I Build With AI
+
+I don’t treat AI as autocomplete.
+
+I increasingly treat it as an engineering capability layer.
+
+                    ┌─────────────────┐
+                    │     James       │
+                    │ Product + Tech  │
+                    │    Direction    │
+                    └────────┬────────┘
+                             │
+          ┌──────────────────┼──────────────────┐
+          ↓                  ↓                  ↓
+     Architecture        AI Agents        Engineering
+          │                  │                  │
+          ↓                  ↓                  ↓
+       Design          Research/Plan        Build/Test
+          │             Validate             Review
+          └──────────────────┼──────────────────┘
+                             ↓
+                    Production Systems
+
+My AI engineering workflows increasingly combine tools such as:
+
+* OpenAI Codex for autonomous engineering work
+* GitHub Copilot for development workflows
+* Microsoft Copilot for enterprise productivity and automation
+* Lovable for rapid product engineering
+* Claude and Gemini where model diversity improves the workflow
+* Purpose-built agents for research, architecture, implementation, testing, security, and operations
+
+The interesting question isn’t “Can AI write this code?”
+
+It’s:
+
+“How should the engineering system change when software can increasingly help build software?”
+
+That’s the problem I’m most interested in.
+
+⸻
+
+🧰 Tools I Reach For
+
+Application Engineering
+
+Data & Backend
+
+AI & Agentic Engineering
+
+Cloud, Enterprise & Operations
+
+Product Capabilities
+
+⸻
+
+🧭 Engineering Principles
+
+01. Outcomes over architecture astronautics
+
+Architecture exists to solve problems. Complexity needs to earn its way into the system.
+
+02. Automate the boring parts
+
+Humans should spend their time on judgment, creativity, relationships, and consequential decisions.
+
+Machines can handle the rest.
+
+03. Build for the person operating it at 2 AM
+
+Observability, recovery paths, documentation, ownership, and failure modes are features.
+
+04. Security is architecture
+
+Identity, least privilege, auditability, secrets management, data boundaries, and secure defaults belong in the design, not the remediation backlog.
+
+05. AI changes the engineering system
+
+AI shouldn’t simply make individual developers type faster.
+
+It should change how teams discover, plan, build, test, review, secure, document, and operate software.
+
+06. Ship, learn, improve
+
+I prefer working software and measurable feedback over months of speculative architecture.
+
+07. Leaders should still understand the work
+
+I lead teams, but staying close to architecture, code, users, and operations makes me a better engineering leader.
+
+⸻
+
+🏆 A Few Things I’m Proud Of
+
+* 🌱 Founder of RootedAI
+* 💎 Lovable Level 5 Diamond builder
+* 🏆 Member Maniac of the Year at Centralized Supply Chain Services
+* 🧑‍💻 Engineering leader who still builds
+* 🤖 Building AI-agent workflows for real production environments
+* 🏢 Modernizing enterprise systems supporting a multi-billion-dollar supply-chain ecosystem
+* 🚀 Turning ideas into production software across enterprise, startup, client, and personal projects
+* 🧠 Constantly experimenting with new ways humans and AI can build together
+
+⸻
+
+📊 GitHub
+
+<div align="center">
+</div>
+
+Public GitHub tells only part of the story. Most enterprise, RootedAI, and client production systems live in private repositories.
+
+⸻
+
+🌎 Beyond the Code
+
+I’m interested in more than shipping features.
+
+I spend a lot of time thinking about:
+
+AI · engineering leadership · developer experience · startups · automation · product design · systems thinking · cybersecurity · technology strategy
+
+And when I’m not working on one of those things, I’m probably building something unnecessary but interesting, improving something around the house, traveling with my family, or finding another process that should obviously be automated.
+
+⸻
 
 <div align="center">
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=hendoctor&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendoctor&layout=compact&hide_border=true&theme=transparent)
+Let’s build something useful.
+
+AI · Software · Automation · Products · Engineering
 
 </div>
-
-<sub>These cards reflect public GitHub activity only. Most production work is maintained in private repositories.</sub>
-
-## Let's build
-
-I am interested in practical AI, agent orchestration, high-leverage developer tooling, enterprise modernization, and products that turn complex work into simple experiences.
-
-- Explore **[RootedAI](https://rootedai.tech)**
-- View my **[portfolio](https://james.hennahane.com)**
-- Email **[james@hennahane.com](mailto:james@hennahane.com)**
-
