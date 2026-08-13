@@ -134,19 +134,55 @@ messy problem → software → automation → AI → delete unnecessary work
 
 ## Things I believe
 
-**AI isn't autocomplete.** It's becoming part of the engineering organization.
+**Leaders should still understand the code.**
 
-**Complexity has to earn its keep.**
-
-**Automate boring work before hiring humans to do more boring work.**
-
-**Engineering leaders should still understand the code.**
-
-**The best internal tool is usually the one nobody needs training to use.**
+**The best tool is usually the one nobody needs training to use.**
 
 **Shipping teaches you things architecture diagrams can't.**
 
-And:
+**The best automation handles the routine and escalates the judgment calls.**
+
+**Small teams with the right AI leverage can outperform much larger organizations.**
+
+**AI-native engineering is bigger than writing code faster. It changes how software gets planned, built, tested, reviewed, secured, and operated.**
+
+**Humans should spend their time on judgment, creativity, relationships, and consequential decisions.**
+
+**Good software makes complicated operations feel boring.**
+
+**A feature isn't done when it works. It's done when someone can operate, observe, recover, and maintain it.**
+
+**The fastest way to understand a problem is often to build something small and put it in front of the people who live with it.**
+
+**Our new world should promote optionality, not just go with the first possible future.**
+
+**Developer experience is an architecture problem.**
+
+**Security belongs in the design, not in the remediation backlog.**
+
+**Automation without observability is just a faster way to create invisible problems.**
+
+**AI agents need boundaries, tools, feedback, and accountability, not just better prompts and context.**
+
+**The most valuable systems connect decisions to actions, not dashboards to more dashboards.**
+
+**A spreadsheet is often a product requirement pretending not to be one.**
+
+**The best technology strategy usually removes more than it adds.**
+
+**Don't automate a bad process until you've asked whether the process should exist at all.**
+
+**Standards should make the right thing easier, not make developers ask permission.**
+
+**You don't need more meetings when the system can provide the context.**
+
+**A small team that owns the problem end to end can move fast.**
+
+**The real promise of AI isn't cheaper software. It's making previously uneconomical ideas worth building.**
+
+**The future org isn't humans versus AI. It's humans designing increasingly capable systems of humans and agents.**
+
+And lastly:
 
 > If I have to do something annoying three times, there's a decent chance I'm going to build software for it.
 
