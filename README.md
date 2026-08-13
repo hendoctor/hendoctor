@@ -19,7 +19,7 @@
 
 I lead engineering and enterprise operations at **Centralized Supply Chain Services**, where we build technology behind a multi-billion-dollar restaurant supply-chain ecosystem.
 
-I also founded **[RootedAI](https://rootedai.tech)** because I think most companies are dramatically underestimating what small teams can build with AI.
+I also founded **[RootedAI](https://rootedai.tech)** because I think most companies wildly underestimate what small teams can build, operate, and maintain with AI.
 
 I write code. I lead engineers. I design systems. I automate things that annoy me.
 
