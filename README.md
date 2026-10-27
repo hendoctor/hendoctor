@@ -21,9 +21,9 @@ I lead engineering and enterprise operations at **Centralized Supply Chain Servi
 
 I also founded **[RootedAI](https://rootedai.tech)** because I think most companies wildly underestimate what small teams can build, operate, and maintain with AI.
 
-I write code. I lead engineers. I design systems. I automate things that annoy me.
+I play with code. I lead engineers. I design & architect systems. I build things that annoy me.
 
-Sometimes those become companies.
+Sometimes those become companies or products.
 
 ## What I'm building
 
