@@ -1,0 +1,38 @@
+name: Check ChatGPT stats code
+
+on:
+  pull_request:
+    paths:
+      - scripts/chatgpt_stats/**
+      - tests/**
+      - data/chatgpt-usage.json
+      - .github/workflows/**
+  push:
+    branches: [main]
+    paths:
+      - scripts/chatgpt_stats/**
+      - tests/**
+      - data/chatgpt-usage.json
+      - .github/workflows/**
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Run offline regression tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Validate the public data and README markers
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          from scripts.chatgpt_stats.render import update_readme
+          update_readme(Path('README.md').read_text(), json.loads(Path('data/chatgpt-usage.json').read_text()))
+          PY

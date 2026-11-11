@@ -1,0 +1,28 @@
+name: Refresh ChatGPT stats freshness
+
+on:
+  schedule:
+    - cron: "17 12 * * *"
+  workflow_dispatch:
+
+# This job uses only the already-public JSON. No ChatGPT credentials are used.
+permissions:
+  contents: write
+
+concurrency:
+  group: chatgpt-profile-display
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/main' && github.repository == 'hendoctor/hendoctor'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Mark old snapshots as stale when needed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/chatgpt_stats/publish.py --repo hendoctor/hendoctor --branch main --refresh-only --publish

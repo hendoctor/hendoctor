@@ -1,0 +1,11 @@
+{
+  "personal": {
+    "expectedEmail": "YOUR_PERSONAL_CHATGPT_EMAIL",
+    "profileHandle": "jmhenn_"
+  },
+  "work": {
+    "expectedEmail": "YOUR_WORK_CHATGPT_EMAIL",
+    "expectedWorkspace": "YOUR_EXACT_CHATGPT_WORKSPACE_NAME",
+    "profileHandle": "james.hennahane"
+  }
+}

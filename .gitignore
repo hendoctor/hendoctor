@@ -1,0 +1,11 @@
+# Private configuration and credentials never belong in this public repository.
+chatgpt-accounts.json
+*.private.json
+.env
+.env.*
+!.env.example
+auth.json
+.codex/
+*.lock
+__pycache__/
+*.py[cod]
