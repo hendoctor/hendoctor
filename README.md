@@ -23,9 +23,9 @@ I lead engineering and enterprise operations at **Centralized Supply Chain Servi
 
 My work spans applications, architecture, data, cloud infrastructure, DevOps, and governed AI. I care as much about growing engineers, establishing clear ownership, and choosing the right problems as I do about the code.
 
-I also co-founded **[RootedAI](https://rootedai.tech)** because I think most companies wildly underestimate what small teams can build, operate, and maintain with AI.
+I also founded **[RootedAI](https://rootedai.tech)** because I think most companies underestimate what small teams with talent can build, operate, secure, scale, and maintain with AI embedded throughout the development lifecycle.
 
-I play with code. I lead engineers and builders. I design and architect systems. I build software to fix things that annoy me.
+I play with code. I lead engineers, builders, creatives, and business executives. I design and architect systems. I build software and workflows to fix things that annoy me.
 
 Sometimes those become companies or products.
 
