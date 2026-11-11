@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "accounts": {
+    "personal": {
+      "source": "screenshot",
+      "fetchedAt": "2026-11-11T17:42:39Z",
+      "profileHandle": "jmhenn_",
+      "summary": {
+        "lifetimeTokens": null,
+        "peakDailyTokens": null,
+        "longestRunningTurnSec": null,
+        "currentStreakDays": null,
+        "longestStreakDays": null
+      },
+      "snapshotDisplay": {
+        "lifetimeTokens": "9B",
+        "peakDailyTokens": "680.5M",
+        "longestRunningTurnSec": "2d 9h",
+        "currentStreakDays": "48 days",
+        "longestStreakDays": "48 days"
+      }
+    },
+    "work": {
+      "source": "screenshot",
+      "fetchedAt": "2026-11-11T17:44:28Z",
+      "profileHandle": "james.hennahane",
+      "summary": {
+        "lifetimeTokens": null,
+        "peakDailyTokens": null,
+        "longestRunningTurnSec": null,
+        "currentStreakDays": null,
+        "longestStreakDays": null
+      },
+      "snapshotDisplay": {
+        "lifetimeTokens": "3.8B",
+        "peakDailyTokens": "160.6M",
+        "longestRunningTurnSec": "6d 13h",
+        "currentStreakDays": "58 days",
+        "longestStreakDays": "58 days"
+      }
+    }
+  }
+}
