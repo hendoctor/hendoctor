@@ -25,9 +25,9 @@ My work spans applications, architecture, data, cloud infrastructure, DevOps, an
 
 I also founded **[RootedAI](https://rootedai.tech)** because I think most companies underestimate what small teams with talent can build, operate, secure, scale, and maintain with AI embedded throughout the development lifecycle.
 
-I play with code. I lead engineers, builders, creatives, and business executives. I design and architect systems. I build software and workflows to fix things that annoy me.
+I play with code. I lead engineers, builders, creatives, and business executives. I design and architect systems. I build software to fix things that annoy me.
 
-Sometimes those become companies or products.
+Sometimes those solutions become companies or products.
 
 <!-- CHATGPT_ACTIVITY_START -->
 ## ChatGPT activity
