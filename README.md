@@ -195,13 +195,11 @@ The tools vary by problem. This is the toolbox I work across.
 
 **Leaders should still understand the code.**
 
-**What’s possible keeps expanding. Knowing what’s worth building matters more.**
+**What’s possible keeps expanding. Knowing what’s worth building matters most.**
 
 **Good leadership gives people context, clear ownership, and room to make decisions.**
 
 **A small team that owns the problem end to end can move fast.**
-
-**Standards should make the right thing easier, not make developers ask permission.**
 
 **You don't need more meetings when the system can provide the context.**
 
@@ -211,13 +209,15 @@ The tools vary by problem. This is the toolbox I work across.
 
 **The best tool is usually the one nobody needs training to use.**
 
+**If the application doesn't offer API/MCP support, I'm not using downloading it.**
+
 **Shipping teaches you things architecture diagrams can't.**
 
 **The fastest way to understand a problem is often to build something small and put it in front of the people who live with it.**
 
 **A spreadsheet is often a product requirement pretending not to be one.**
 
-**More possibilities should give us more room to explore before we commit to a direction.**
+**Abundant possibilities gives us more room to explore before we commit to a direction.**
 
 **The best technology strategy usually removes more than it adds.**
 
@@ -229,13 +229,13 @@ The tools vary by problem. This is the toolbox I work across.
 
 **The best automation handles the routine and escalates the judgment calls.**
 
-**Small teams with the right AI leverage can outperform much larger organizations.**
+**Small teams with the right AI leverage and context can outperform much larger organizations.**
 
 **AI-native engineering is bigger than writing code faster. It changes how software gets planned, built, tested, reviewed, secured, and operated.**
 
 **AI agents need boundaries, tools, feedback, and accountability, not just better prompts and context.**
 
-**The next user of your software might be an agent. Design the interfaces accordingly.**
+**The next user type of your software will be an agent. Design the interfaces accordingly and as necessary.**
 
 **Don't automate a bad process until you've asked whether the process should exist at all.**
 
@@ -255,7 +255,7 @@ The tools vary by problem. This is the toolbox I work across.
 
 And lastly:
 
-> If I have to do something annoying three times, there's a decent chance I'm going to build software for it.
+> If I have to do something annoying three times, there's a decent chance I'm already building software for it.
 
 ## At a glance
 
