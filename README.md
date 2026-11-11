@@ -25,7 +25,7 @@ My work spans applications, architecture, data, cloud infrastructure, DevOps, an
 
 I also co-founded **[RootedAI](https://rootedai.tech)** because I think most companies wildly underestimate what small teams can build, operate, and maintain with AI.
 
-I play with code. I lead engineers. I design and architect systems. I build software to fix things that annoy me.
+I play with code. I lead engineers and builders. I design and architect systems. I build software to fix things that annoy me.
 
 Sometimes those become companies or products.
 
