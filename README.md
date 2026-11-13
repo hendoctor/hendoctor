@@ -45,7 +45,7 @@ Sometimes those solutions become companies or products.
 | Streak at last sync | 48 days | 58 days |
 | Source | Manual screenshot snapshot | Manual screenshot snapshot |
 | Last recorded | 2026-11-11 17:42 UTC | 2026-11-11 17:44 UTC |
-| Freshness | Recorded within 48h | Recorded within 48h |
+| Freshness | **Stale (>48h)** | **Stale (>48h)** |
 
 *Screenshot values are manually transcribed, rounded display values. Account usage values reflect their latest successful refresh; missing metrics are unavailable. Streaks reflect the last recorded sync.*
 <!-- CHATGPT_ACTIVITY_END -->
